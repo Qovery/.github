@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/Qovery/public-resources/master/qovery-engine-logo.svg" width="318px" alt="Qovery logo" />
   </a>
 </p>
-<h3 align="center">The Platform to Create Production-like Environments</h3>
+<h3 align="center">Deliver Self-Service Infrastructure</h3>
 <p align="center">At the Speed of Light ⚡</p>
 
 <p align="center">
