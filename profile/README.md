@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.qovery.com">
-    <img src="https://raw.githubusercontent.com/Qovery/.github/main/profile/qovery-logo.png" width="120px" alt="Qovery logo" />
+    <img src="https://raw.githubusercontent.com/Qovery/.github/main/profile/qovery-logo.jpg" width="120px" alt="Qovery logo" />
   </a>
 </p>
 <h3 align="center">Deliver Self-Service Infrastructure</h3>
