@@ -17,9 +17,5 @@
 |
 <a href="https://roadmap.qovery.com">Product roadmap</a> 🗺
 |
-<a href="https://discord.qovery.com">Discord</a> 💬
-|
-<a href="https://discuss.qovery.com">Forum</a> 🗣
-|
 <a href="https://www.qovery.com/contact">Contact us</a> 🎙
 </p>
